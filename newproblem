@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+echo -n "Problem number: "
+read num
+echo -n "Problem name: "
+read name
+echo -n "Difficulty: "
+read diff
+echo -n "Problem Type: "
+read type
+echo -n "Solve #: "
+read solve
+echo -n "Date: "
+read date
+echo -n "Time: "
+read time
+echo -n "Runtime: "
+read runtime
+
+filename=${num}_${name//[[:blank:]]/}.cpp
+if [ -z "$date" ]
+then
+    d=$(date +'%D')
+else
+    d=${date}
+fi
+
+touch $filename
+echo "#include errors.h" > $filename
+echo -e "\n// ${num}. ${name} - ${diff} - ${type}" >> ${filename}
+echo "// -------------------------------------------------------------" >> ${filename}
+echo "// " >> ${filename}
+echo "// -------------------------------------------------------------" >> ${filename}
+echo "// Solve #${solve} | ${d} | Time: ${time} | Avg. Runtime: ${runtime}ms" >> ${filename}
+echo -e "\n\n" >> ${filename}
+echo "File Created!"

@@ -1,9 +1,12 @@
+#include errors.h
+
 // 401. Binary Watch - Easy - Backtracking/Bit Manipulation
+// -------------------------------------------------------------
 // A binary watch has 4 LEDs on the top which represent the hours (0-11), and the 6 LEDs on the bottom represent the minutes (0-59).
 // Each LED represents a zero or one, with the least significant bit on the right.
 // Given a non-negative integer n which represents the number of LEDs that are currently on, return all possible times the watch could represent.
-
-// Solve #2 - 8/5/20 - Time: 8:01 - Avg. Runtime: 2.4ms
+// -------------------------------------------------------------
+// Solve #2 | 8/5/20 | Time: 8:01 | Avg. Runtime: 2.4ms
 
 vector<string> readBinaryWatch(int num) { // O(1) time, Undefined space complexity
     // Initialize
@@ -32,12 +35,9 @@ vector<string> readBinaryWatch(int num) { // O(1) time, Undefined space complexi
 int numBits(unsigned int num) { // O(1) time, O(1) space
     // Initialize
     int count = 0;
-
     // Counts number of bits that are 1
-    while (num) {
+    for(; num; num >>= 1)
         if (num & 1)
             count++;
-        num >>= 1;
-    }
     return count;
 }

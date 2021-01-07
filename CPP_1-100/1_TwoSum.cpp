@@ -1,9 +1,12 @@
+#include errors.h
+
 // 1. Two Sum - Easy - Array/Hash Table
+// -------------------------------------------------------------
 // Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 // You may assume that each input would have exactly one solution, and you may not use the same element twice.
 // You can return the answer in any order.
-
-// Solve #2 - 1/6/21 - Time: 8:30 - Avg. Runtime: 17.6ms
+// -------------------------------------------------------------
+// Solve #2 | 1/6/21 | Time: 8:30 | Avg. Runtime: 17.6ms
 
 vector<int> twoSum(vector<int> &nums, int target) { // O(N) time, O(N) space
     // Initialize
