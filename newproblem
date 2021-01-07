@@ -25,7 +25,7 @@ else
 fi
 
 touch $filename
-echo "#include errors.h" > $filename
+echo "#include \"errors.h\"" > $filename
 echo -e "\n// ${num}. ${name} - ${diff} - ${type}" >> ${filename}
 echo "// -------------------------------------------------------------" >> ${filename}
 echo "// " >> ${filename}

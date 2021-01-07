@@ -5,7 +5,7 @@
 // Given an array A of non-negative integers, return an array consisting of all the even elements of A, followed by all the odd elements of A.
 // You may return any answer array that satisfies this condition.
 // -------------------------------------------------------------
-// Solve #1 | 9/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
 
 vector<int> sortArrayByParity(vector<int>& A) { // O(N) time, O(1) space
     // Initialization

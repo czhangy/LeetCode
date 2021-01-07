@@ -1,10 +1,10 @@
-#include errors.h
+#include "errors.h"
 
 // 7. Reverse Integer - Easy - Math
 // -------------------------------------------------------------
 // Given a 32-bit signed integer, reverse digits of an integer.
 // -------------------------------------------------------------
-// Solve #1 | 6/25/20 | Time: 31:08 | Avg. Runtime: 4ms
+// Solve #1 | 06/25/20 | Time: 31:08 | Avg. Runtime: 4ms
 
 int reverse(int x) {
     // Initialization
