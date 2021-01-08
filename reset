@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+rm -r $1
+mkdir $1
+
+echo "$1" has been reset!
