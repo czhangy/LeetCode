@@ -31,5 +31,5 @@ echo "// -------------------------------------------------------------" >> ${fil
 echo "// " >> ${filename}
 echo "// -------------------------------------------------------------" >> ${filename}
 echo "// Solve #${solve} | ${d} | Time: ${time} | Avg. Runtime: ${runtime}ms" >> ${filename}
-echo -e "\n\n" >> ${filename}
+echo -e "\n" >> ${filename}
 echo "File Created!"

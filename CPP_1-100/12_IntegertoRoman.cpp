@@ -1,4 +1,7 @@
 #include "errors.h"
+#include <string>
+
+using namespace std;
 
 // 12. Integer to Roman - Medium - Math/String
 // -------------------------------------------------------------
