@@ -1,4 +1,7 @@
 #include "errors.h"
+#include <unordered_set>
+
+using namespace std;
 
 // 1. Happy Number - Easy - Hash Table/Math
 // -------------------------------------------------------------
@@ -9,7 +12,7 @@
 // - Those numbers for which this process ends in 1 are happy.
 // Return true if n is a happy number, and false if not.
 // -------------------------------------------------------------
-// Solve #1 | 7/10/20 | Time: 5:52 | Avg. Runtime: 7.2ms
+// Solve #1 | 07/10/20 | Time: 5:52 | Avg. Runtime: 7.2ms
 
 bool isHappy(int n) { // Undefined time complexity, Undefined space complexity
     // Initialize

@@ -1,4 +1,7 @@
 #include "errors.h"
+#include <vector>
+
+using namespace std;
 
 // 303. Range Sum Query-Immutable - Easy - Dynamic Programming
 // -------------------------------------------------------------
@@ -7,7 +10,7 @@
 // - NumArray(int[] nums) Initializes the object with the integer array nums.
 // - int sumRange(int i, int j) Return the sum of the elements of the nums array in the range [i, j] inclusive (i.e., sum(nums[i], nums[i + 1], ... , nums[j]))
 // -------------------------------------------------------------
-// Solve #1 | 7/20/20 | Time: 9:09 | Avg. Runtime: 37.6ms
+// Solve #1 | 07/20/20 | Time: 9:09 | Avg. Runtime: 37.6ms
 
 class NumArray {
 public:
