@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 985. Sum Of Even Numbers After Queries - Easy - Array
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 12/23/20 | Time: 14:56 | Avg. Runtime: 190.4ms
 
 

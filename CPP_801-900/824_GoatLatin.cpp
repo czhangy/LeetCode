@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 824. Goat Latin - Easy - String
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 09/14/20 | Time: 6:44 | Avg. Runtime: 3.2ms
 
 

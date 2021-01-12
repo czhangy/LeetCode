@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 830. Positions Of Large Groups - Easy - Array
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 09/14/20 | Time: 5:36 | Avg. Runtime: 6.4ms
 
 

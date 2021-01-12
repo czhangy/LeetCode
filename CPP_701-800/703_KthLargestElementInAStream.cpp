@@ -1,4 +1,8 @@
 #include "errors.h"
+#include <queue>
+#include <vector>
+
+using namespace std;
 
 // 703. Kth Largest Element in a Stream - Easy - Heap
 // -------------------------------------------------------------
@@ -8,7 +12,7 @@
 // - KthLargest(int k, int[] nums) Initializes the object with the integer k and the stream of integers nums.
 // - int add(int val) Returns the element representing the kth largest element in the stream.
 // -------------------------------------------------------------
-// Solve #2 | 9/11/21 | Time: 22:00 | Avg. Runtime: 68.8ms
+// Solve #2 | 09/11/21 | Time: 22:00 | Avg. Runtime: 68.8ms
 
 class KthLargest {
 public:

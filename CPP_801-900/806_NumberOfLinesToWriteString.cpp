@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 806. Number Of Lines To Write String - Easy - Math
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 09/13/20 | Time: 4:03 | Avg. Runtime: 3.2ms
 
 

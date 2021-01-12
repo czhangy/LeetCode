@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 892. Surface Area Of 3D Shapes - Easy - Math/Geometry
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #2 | 09/19/20 | Time: 8:06 | Avg. Runtime: 20ms
 
 

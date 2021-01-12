@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 589. N-ary Tree Preorder Traversal - Easy - Tree
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 08/16/20 | Time: 91.2 | Avg. Runtime: 1ms
 
 

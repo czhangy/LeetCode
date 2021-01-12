@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 874. Walking Robot Simulation - Easy - Greedy
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #2 | 09/19/20 | Time: 9:16 | Avg. Runtime: 327.2ms
 
 

@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 812. Largest Triangle Area - Easy - Math
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #2 | 09/19/20 | Time: 4:41 | Avg. Runtime: 41.6ms
 
 

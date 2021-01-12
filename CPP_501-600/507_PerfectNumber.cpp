@@ -6,7 +6,7 @@
 // A divisor of an integer x is an integer that can divide x evenly.
 // Given an integer n, return true if n is a perfect number, otherwise return false.
 // -------------------------------------------------------------
-// Solve #1 | 8/7/20 | Time: 7:50 | Avg. Runtime: 0ms
+// Solve #1 | 08/07/20 | Time: 7:50 | Avg. Runtime: 0ms
 
 bool checkPerfectNumber(int num) { // O(sqrt(N)) time, O(1) space
     // Handle edge case of num = 1

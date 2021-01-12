@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 944. Delete Columns To Make Sorted - Easy - Greedy
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 12/23/20 | Time: 2:52 | Avg. Runtime: 46.4ms
 
 

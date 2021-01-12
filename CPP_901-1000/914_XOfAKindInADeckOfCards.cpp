@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 914. X Of A Kind In A Deck Of Cards - Easy - Array/Math
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 09/18/20 | Time: 18:18 | Avg. Runtime: 38.4ms
 
 

@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 976. Largest Perimeter Triangle - Easy - Math/Sort
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 12/23/20 | Time: 6:49 | Avg. Runtime: 85.6ms
 
 

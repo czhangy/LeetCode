@@ -1,4 +1,9 @@
 #include "errors.h"
+#include <string>
+#include <unordered_set>
+#include <vector>
+
+using namespace std;
 
 // 804. Unique Morse Code Words - Easy - String
 // -------------------------------------------------------------

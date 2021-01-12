@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 581. Shortest Unsorted Continuous Subarray - Easy - Array
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 08/16/20 | Time: 6:01 | Avg. Runtime: 91.2ms
 
 

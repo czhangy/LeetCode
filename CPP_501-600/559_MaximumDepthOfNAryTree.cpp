@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 559. Maximum Depth Of N-ary Tree - Easy - Tree/Depth-First Search/Breadth-First Search
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 08/13/20 | Time: 4:46 | Avg. Runtime: 33.6ms
 
 

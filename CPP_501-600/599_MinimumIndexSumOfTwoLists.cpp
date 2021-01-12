@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 599. Minimum Index Sum Of Two Lists - Easy - Hash Table
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #1 | 08/18/20 | Time: 10:57 | Avg. Runtime: 146.4ms
 
 

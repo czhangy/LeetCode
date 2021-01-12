@@ -1,9 +1,9 @@
 #include "errors.h"
 
-// 905. Sort Array By Parity - Easy - Array
+// 844. Backspace String Compare - Easy - Two Pointers/Stack
 // -------------------------------------------------------------
 // 
 // -------------------------------------------------------------
-// Solve #1 | 09/18/20 | Time: 11:30 | Avg. Runtime: 14.4ms
+// Solve #4 | 01/05/21 | Time: 25:12 | Avg. Runtime: 0ms
 
 

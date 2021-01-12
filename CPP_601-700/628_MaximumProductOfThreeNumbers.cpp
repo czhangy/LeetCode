@@ -1,10 +1,13 @@
 #include "errors.h"
+#include <vector>
+
+using namespace std;
 
 // 628. Maximum Product of Three Numbers - Easy - Array/Math
 // -------------------------------------------------------------
 // Given an integer array nums, find three numbers whose product is maximum and return the maximum product.
 // -------------------------------------------------------------
-// Solve #1 | 8/21/20 | Time: 10:14 | Avg. Runtime: 248.8ms
+// Solve #1 | 08/21/20 | Time: 10:14 | Avg. Runtime: 248.8ms
 
 int maximumProduct(vector<int> &nums) { // O(N) time, O(1) space
     // Initialization
