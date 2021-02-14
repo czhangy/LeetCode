@@ -17,5 +17,8 @@
         "unordered_map": "cpp",
         "cstdlib": "cpp",
         "xtree": "cpp"
+    },
+    "ocaml.sandbox": {
+        "kind": "global"
     }
 }
